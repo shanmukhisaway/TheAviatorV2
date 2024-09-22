@@ -8,6 +8,4 @@ Clone repository, in the code directory run `php -S localhost:8123` and in your 
 
 ## License
 
-Integrate or build upon it for free in your personal or commercial projects. Don't republish, redistribute or sell "as-is". 
-
-![The Aviator 2](https://tympanus.net/codrops/wp-content/uploads/2022/04/Aviator2_featured.jpg)
+Integrate or build upon it for free in your personal or commercial projects. Don't republish, redistribute or sell "as-is".
